@@ -27,6 +27,22 @@ body {
     padding: 0 1rem;
 }
 
+.toptxt{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.register{
+    margin-top: 2rem;
+}
+.register a{
+    padding: 0.4rem;
+    border: 1px solid orangered;
+    color: white;
+    border-radius: var(--border-radius);
+    font-weight: 700;
+}
+
 .designed a {
     color: rgb(19, 36, 32);
 }
