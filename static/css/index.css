@@ -53,12 +53,17 @@ body {
     color: white;
     margin-bottom: 1rem;
     background: linear-gradient(to bottom, #136a8a, #267871);
+    padding: 1rem;
 }
 
 .more .leg{
     margin-top: 1rem;
     text-transform: uppercase;
     font-weight: 700;
+}
+
+.more span{
+    font-size: 1rem;
 }
 
 .news legend{
