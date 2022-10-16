@@ -32,7 +32,7 @@ body {
 }
 
 .rest {
-    margin-top: 5rem;
+    margin-top: 1rem;
     margin-bottom: 4rem;
 }
 
@@ -67,6 +67,10 @@ legend {
     font-size: 1.2rem;
 }
 
+.market legend{
+    text-transform: uppercase;
+    font-weight: 800;
+}
 .services legend {
     color: #3871b8;
     font-size: 1.5rem;
@@ -86,17 +90,17 @@ legend {
     padding: 1rem;
 }
 .market .card {
-    height: 300px;
+    /* height: 300px; */
     margin: 1rem;
 }
 
 .card .card-img {
     width: 100%;
-    max-height: 80%;
+    height: 55%;
 }
 
 .card .text-muted{
-    padding: 1rem;
+    padding: .5rem;
 }
 .designed a {
     color: rgb(19, 36, 32);
